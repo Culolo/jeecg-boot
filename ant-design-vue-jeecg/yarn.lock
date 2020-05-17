@@ -1602,10 +1602,10 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0:
     "@types/color-name" "^1.1.1"
     color-convert "^2.0.1"
 
-ant-design-vue@^1.5.2:
+ant-design-vue@1.5.2:
   version "1.5.2"
-  resolved "https://registry.npmjs.org/ant-design-vue/-/ant-design-vue-1.5.2.tgz#0943f17d7908de16e633da7ab7133fb856eedd2c"
-  integrity sha512-DmlOl+ld4hSQdEG1c2wAV+v9/Bl2aG+wBEnd1GJYV0LeOXaSrBGiIkZrmUrTrUL92yBdFO+OF25aFNb0UFMZOA==
+  resolved "https://registry.npm.taobao.org/ant-design-vue/download/ant-design-vue-1.5.2.tgz#0943f17d7908de16e633da7ab7133fb856eedd2c"
+  integrity sha1-CUPxfXkI3hbmM9p6txM/uFbu3Sw=
   dependencies:
     "@ant-design/icons" "^2.1.1"
     "@ant-design/icons-vue" "^2.0.0"
@@ -1649,18 +1649,6 @@ anymatch@^2.0.0:
   dependencies:
     micromatch "^3.1.4"
     normalize-path "^2.1.1"
-
-apexcharts@^3.6.5:
-  version "3.16.0"
-  resolved "https://registry.npmjs.org/apexcharts/-/apexcharts-3.16.0.tgz#7fec05f85773c2b89a7b757cfe551a9c055807ed"
-  integrity sha512-tD7d/VJ9G2giVIOTowi89RKu4Ptp/jJdvrmkBJiaaOROCT3Wa4qyJ6QKp4dgUmpN5z0xMFxtDPaikItW2BEucw==
-  dependencies:
-    svg.draggable.js "^2.2.2"
-    svg.easing.js "^2.0.0"
-    svg.filter.js "^2.0.2"
-    svg.pathmorphing.js "^0.1.3"
-    svg.resize.js "^1.4.3"
-    svg.select.js "^2.1.2"
 
 aproba@^1.1.1:
   version "1.2.0"

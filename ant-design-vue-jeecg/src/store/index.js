@@ -14,7 +14,8 @@ export default new Vuex.Store({
     app,
     user,
     permission,
-    enhance
+    enhance,
+    game
   },
   state: {
 

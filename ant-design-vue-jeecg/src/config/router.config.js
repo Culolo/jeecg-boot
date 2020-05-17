@@ -1,4 +1,5 @@
 import { UserLayout, TabLayout, RouteView, BlankLayout, PageView } from '@/components/layouts'
+import WebGame from '@/components/webgame/WebGame'
 
 /**
  * 走菜单，走权限控制
@@ -358,6 +359,10 @@ export const constantRouterMap = [
         component: () => import('@/views/Home')
       }
     ]
+  },
+  {
+    path: '/game',
+    component: WebGame
   },
   {
     path: '/404',
