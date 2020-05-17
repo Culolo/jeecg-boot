@@ -1650,6 +1650,18 @@ anymatch@^2.0.0:
     micromatch "^3.1.4"
     normalize-path "^2.1.1"
 
+apexcharts@^3.6.5:
+  version "3.16.0"
+  resolved "https://registry.npmjs.org/apexcharts/-/apexcharts-3.16.0.tgz#7fec05f85773c2b89a7b757cfe551a9c055807ed"
+  integrity sha512-tD7d/VJ9G2giVIOTowi89RKu4Ptp/jJdvrmkBJiaaOROCT3Wa4qyJ6QKp4dgUmpN5z0xMFxtDPaikItW2BEucw==
+  dependencies:
+    svg.draggable.js "^2.2.2"
+    svg.easing.js "^2.0.0"
+    svg.filter.js "^2.0.2"
+    svg.pathmorphing.js "^0.1.3"
+    svg.resize.js "^1.4.3"
+    svg.select.js "^2.1.2"
+
 aproba@^1.1.1:
   version "1.2.0"
   resolved "https://registry.npmjs.org/aproba/-/aproba-1.2.0.tgz#6802e6264efd18c790a1b0d517f0f2627bf2c94a"
